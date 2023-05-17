@@ -1,1 +1,1 @@
-Please refer to https://github.com/yakov-vaisbourd/memmpy for the update version of the memmpy package. 
+Please refer to https://github.com/yakov-vaisbourd/memmpy for the current version of the memmpy package. 
